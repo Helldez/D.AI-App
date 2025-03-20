@@ -65,17 +65,6 @@
         "licenseUrl": "https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md",
         "category": "LIGHT"
       },
-      {
-        "name": "Dolphin3.0-Qwen2.5-0.5B",
-        "source": "https://huggingface.co/bartowski/Dolphin3.0-Qwen2.5-0.5B-GGUF/resolve/main/Dolphin3.0-Qwen2.5-0.5B-Q5_K_M.gguf?download=true",
-        "fileName": "Dolphin3.0-Qwen2.5-0.5B-Q5_K_M.gguf",
-        "description": "Compact model (approx. 0.4 GiB)",
-        "tags": ["Compact Model", "Mobile-friendly", "Efficient"],
-        "templateType": "QWEN",
-        "licenseUrl": "https://huggingface.co/Qwen/Qwen2.5-1.5B/blob/main/LICENSE",
-        "category": "LIGHT"
-      }
-    ],
     "ADVANCED": [
       {
         "name": "Gemma-2b-it Q6_K",

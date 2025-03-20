@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-03-20",
+  "lastUpdated": "2025-03-17",
   "models": {
     "SUGGESTED": [
       {
@@ -65,6 +65,7 @@
         "licenseUrl": "https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md",
         "category": "LIGHT"
       },
+    ],
     "ADVANCED": [
       {
         "name": "Gemma-2b-it Q6_K",

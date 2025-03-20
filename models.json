@@ -118,16 +118,6 @@
         "category": "ADVANCED"
       },
       {
-        "name": "LGAI-EXAONE_EXAONE-Deep-2.4B",
-        "source": "https://huggingface.co/bartowski/LGAI-EXAONE_EXAONE-Deep-2.4B-GGUF/resolve/main/LGAI-EXAONE_EXAONE-Deep-2.4B-Q5_K_M.gguf?download=true",
-        "fileName": "LGAI-EXAONE_EXAONE-Deep-2.4B-Q5_K_M.gguf",
-        "description": "Deep model with 2.4B parameters (approx. 1.8 GiB)",
-        "tags": ["High performance", "Resource-intensive", "Advanced users"],
-        "templateType": "EXAONE",
-        "licenseUrl": "https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-2.4B/blob/main/LICENSE",
-        "category": "ADVANCED"
-      },
-      {
         "name": "DeepHermes-3-Llama-3-3B-Preview",
         "source": "https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview-GGUF/resolve/main/DeepHermes-3-Llama-3-3B-Preview-q5.gguf?download=true",
         "fileName": "DeepHermes-3-Llama-3-3B-Preview-q5.gguf",

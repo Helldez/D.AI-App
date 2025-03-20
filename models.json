@@ -116,16 +116,6 @@
         "templateType": "DEEPSEEK",
         "licenseUrl": "https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md",
         "category": "ADVANCED"
-      },
-      {
-        "name": "DeepHermes-3-Llama-3-3B-Preview",
-        "source": "https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview-GGUF/resolve/main/DeepHermes-3-Llama-3-3B-Preview-q5.gguf?download=true",
-        "fileName": "DeepHermes-3-Llama-3-3B-Preview-q5.gguf",
-        "description": "Preview model (approx. 2.3 GiB)",
-        "tags": ["Preview", "High performance", "Resource-intensive"],
-        "templateType": "LLAMA3",
-        "licenseUrl": "https://huggingface.co/meta-llama/Meta-Llama-3-8B/blob/main/LICENSE",
-        "category": "ADVANCED"
       }
     ]
   }

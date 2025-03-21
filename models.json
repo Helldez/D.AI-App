@@ -116,6 +116,16 @@
         "templateType": "DEEPSEEK",
         "licenseUrl": "https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md",
         "category": "ADVANCED"
+      },
+      {
+        "name": "Hermes-3-Llama-3.2-3B",
+        "source": "https://huggingface.co/NousResearch/Hermes-3-Llama-3.2-3B-GGUF/resolve/main/Hermes-3-Llama-3.2-3B.Q5_K_M.gguf?download=true",
+        "fileName": "Hermes-3-Llama-3.2-3B.Q5_K_M.gguf",
+        "description": "High performance model (approx. 2.3 GiB)",
+        "tags": ["High performance", "Resource-intensive"],
+        "templateType": "LLAMA3",
+        "licenseUrl": "https://huggingface.co/meta-llama/Meta-Llama-3-8B/blob/main/LICENSE",
+        "category": "ADVANCED"
       }
     ]
   }

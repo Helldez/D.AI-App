@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-03-20",
+  "lastUpdated": "2025-03-21",
   "models": {
     "SUGGESTED": [
       {
@@ -64,16 +64,6 @@
         "templateType": "SAILOR",
         "licenseUrl": "https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md",
         "category": "LIGHT"
-      },
-      {
-        "name": "Dolphin3.0-Qwen2.5-0.5B",
-        "source": "https://huggingface.co/bartowski/Dolphin3.0-Qwen2.5-0.5B-GGUF/resolve/main/Dolphin3.0-Qwen2.5-0.5B-Q5_K_M.gguf?download=true",
-        "fileName": "Dolphin3.0-Qwen2.5-0.5B-Q5_K_M.gguf",
-        "description": "Compact model (approx. 0.4 GiB)",
-        "tags": ["Compact Model", "Mobile-friendly", "Efficient"],
-        "templateType": "QWEN",
-        "licenseUrl": "https://huggingface.co/Qwen/Qwen2.5-1.5B/blob/main/LICENSE",
-        "category": "LIGHT"
       }
     ],
     "ADVANCED": [
@@ -125,36 +115,6 @@
         "tags": ["DeepSeek", "Strong Reasoning", "Qwen"],
         "templateType": "DEEPSEEK",
         "licenseUrl": "https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md",
-        "category": "ADVANCED"
-      },
-      {
-        "name": "LGAI-EXAONE_EXAONE-Deep-2.4B",
-        "source": "https://huggingface.co/bartowski/LGAI-EXAONE_EXAONE-Deep-2.4B-GGUF/resolve/main/LGAI-EXAONE_EXAONE-Deep-2.4B-Q5_K_M.gguf?download=true",
-        "fileName": "LGAI-EXAONE_EXAONE-Deep-2.4B-Q5_K_M.gguf",
-        "description": "Deep model with 2.4B parameters (approx. 1.8 GiB)",
-        "tags": ["High performance", "Resource-intensive", "Advanced users"],
-        "templateType": "EXAONE",
-        "licenseUrl": "https://huggingface.co/LGAI-EXAONE/EXAONE-Deep-2.4B/blob/main/LICENSE",
-        "category": "ADVANCED"
-      },
-      {
-        "name": "DeepHermes-3-Llama-3-3B-Preview",
-        "source": "https://huggingface.co/NousResearch/DeepHermes-3-Llama-3-3B-Preview-GGUF/resolve/main/DeepHermes-3-Llama-3-3B-Preview-q5.gguf?download=true",
-        "fileName": "DeepHermes-3-Llama-3-3B-Preview-q5.gguf",
-        "description": "Preview model (approx. 2.3 GiB)",
-        "tags": ["Preview", "High performance", "Resource-intensive"],
-        "templateType": "LLAMA3",
-        "licenseUrl": "https://huggingface.co/meta-llama/Meta-Llama-3-8B/blob/main/LICENSE",
-        "category": "ADVANCED"
-      },
-      {
-        "name": "Hermes-3-Llama-3.2-3B",
-        "source": "https://huggingface.co/bartowski/Hermes-3-Llama-3.2-3B-GGUF/resolve/main/Hermes-3-Llama-3.2-3B-Q5_K_M.gguf?download=true",
-        "fileName": "Hermes-3-Llama-3.2-3B-Q5_K_M.gguf",
-        "description": "High performance model (approx. 2.3 GiB)",
-        "tags": ["High performance", "Resource-intensive"],
-        "templateType": "LLAMA3",
-        "licenseUrl": "https://huggingface.co/meta-llama/Meta-Llama-3-8B/blob/main/LICENSE",
         "category": "ADVANCED"
       }
     ]

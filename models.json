@@ -118,13 +118,13 @@
         "category": "ADVANCED"
       },
       {
-        "name": "Hermes-3-Llama-3.2-3B",
-        "source": "https://huggingface.co/bartowski/Hermes-3-Llama-3.2-3B-GGUF/resolve/main/Hermes-3-Llama-3.2-3B-Q6_K.gguf?download=true",
-        "fileName": "Hermes-3-Llama-3.2-3B-Q6_K.gguf",
-        "description": "High performance model (approx. 2.64 GiB)",
-        "tags": ["High performance", "Resource-intensive"],
-        "templateType": "CUSTOM",
-        "licenseUrl": "https://huggingface.co/meta-llama/Meta-Llama-3-8B/blob/main/LICENSE",
+        "name": "Mistral-7B-Instruct-v0.3",
+        "source": "https://huggingface.co/bartowski/Mistral-7B-Instruct-v0.3-GGUF/resolve/main/Mistral-7B-Instruct-v0.3-IQ4_XS.gguf?download=true",
+        "fileName": "Mistral-7B-Instruct-v0.3-IQ4_XS.gguf",
+        "description": "High performance instruction-tuned model (approx. 3.91 GiB)",
+        "tags": ["High performance", "Resource-intensive", "Instruction-tuned"],
+        "templateType": "MISTRAL",
+        "licenseUrl": "",
         "category": "ADVANCED"
       }
     ]

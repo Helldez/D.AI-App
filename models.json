@@ -117,16 +117,16 @@
         "licenseUrl": "https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/mit.md",
         "category": "ADVANCED"
       },
-{
-  "name": "Falcon3-3B-Instruct",
-  "source": "https://huggingface.co/bartowski/Falcon3-3B-Instruct-GGUF/resolve/main/Falcon3-3B-Instruct-Q5_K_M.gguf?download=true",
-  "fileName": "Falcon3-3B-Instruct-Q5_K_M.gguf",
-  "description": "High performance instruction-tuned model (approx. 2.32 GiB)",
-  "tags": ["High performance", "Instruction-tuned", "Resource-intensive"],
-  "templateType": "FALCON3",
-  "licenseUrl": "",
-  "category": "ADVANCED"
-},
+      {
+        "name": "Falcon3-3B-Instruct",
+        "source": "https://huggingface.co/bartowski/Falcon3-3B-Instruct-GGUF/resolve/main/Falcon3-3B-Instruct-Q5_K_M.gguf?download=true",
+        "fileName": "Falcon3-3B-Instruct-Q5_K_M.gguf",
+        "description": "High performance instruction-tuned model (approx. 2.32 GiB)",
+        "tags": ["High performance", "Instruction-tuned", "Resource-intensive"],
+        "templateType": "FALCON3",
+        "licenseUrl": "https://falconllm.tii.ae/falcon-terms-and-conditions.html",
+        "category": "ADVANCED"
+      },
       {
         "name": "Mistral-7B-Instruct-v0.3",
         "source": "https://huggingface.co/bartowski/Mistral-7B-Instruct-v0.3-GGUF/resolve/main/Mistral-7B-Instruct-v0.3-IQ4_XS.gguf?download=true",
@@ -134,7 +134,7 @@
         "description": "High performance instruction-tuned model (approx. 3.91 GiB)",
         "tags": ["High performance", "Resource-intensive", "Instruction-tuned"],
         "templateType": "MISTRAL",
-        "licenseUrl": "",
+        "licenseUrl": "https://huggingface.co/datasets/choosealicense/licenses/blob/main/markdown/apache-2.0.md",
         "category": "ADVANCED"
       }
     ]
